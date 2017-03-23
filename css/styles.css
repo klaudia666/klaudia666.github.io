@@ -1,0 +1,68 @@
+html{
+	background-color: #FA8072;
+}
+
+p{
+	font-size:16px;
+}
+
+.red{
+	background-color:red;
+}
+
+.green{
+	background-color:lightgreen;
+}
+
+.img-circle{
+	border-radius:50%;
+	display: block;
+	margin-right: : auto;
+	margin-left: auto;
+}
+
+.card-block{
+	display:block;
+	margin: 0 auto;
+}
+
+.card-text{
+	text-align: center;
+
+}
+.card-title{
+	text-align: center;
+	font-family: impact;
+	font-weight: bold;
+}
+
+body{
+	background-color: #FFC0CB;
+}
+.card{
+	border-color: pink;
+	border-width: 2px;
+	border-radius: 50px;
+}
+
+.navbar{
+	background: #800080;
+}
+.nav-item{
+	font-size: 16px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	font-style: bold;
+}
+
+.navbar-brand{
+	font-size: 20px;
+	padding-top: 10px;
+	font-style:bold;
+}
+
+.card-footer{
+	size: 16px;
+	background-color: lightpink;
+}
